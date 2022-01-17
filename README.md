@@ -1,3 +1,14 @@
+### Completion Time: 1 hour and 30 minutes
+
+** In order to run this code on your PC, do the following: **
+
+1. Run
+	npm install
+	npm start
+2. In your browser of choice, open
+	
+	https://localhost:3000
+
 ### CODING CHALLENGE INSTRUCTIONS:
 
                   **VIETNAMESE**
