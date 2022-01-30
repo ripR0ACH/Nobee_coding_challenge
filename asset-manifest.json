@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nobee_coding_challenge/static/css/main.0d782a8b.chunk.css",
+    "main.js": "/Nobee_coding_challenge/static/js/main.22b87879.chunk.js",
+    "main.js.map": "/Nobee_coding_challenge/static/js/main.22b87879.chunk.js.map",
+    "runtime~main.js": "/Nobee_coding_challenge/static/js/runtime~main.9f7946e5.js",
+    "runtime~main.js.map": "/Nobee_coding_challenge/static/js/runtime~main.9f7946e5.js.map",
+    "static/js/2.8cbe249b.chunk.js": "/Nobee_coding_challenge/static/js/2.8cbe249b.chunk.js",
+    "static/js/2.8cbe249b.chunk.js.map": "/Nobee_coding_challenge/static/js/2.8cbe249b.chunk.js.map",
+    "index.html": "/Nobee_coding_challenge/index.html",
+    "precache-manifest.3d919ec06b10758131f43560485959a0.js": "/Nobee_coding_challenge/precache-manifest.3d919ec06b10758131f43560485959a0.js",
+    "service-worker.js": "/Nobee_coding_challenge/service-worker.js",
+    "static/css/main.0d782a8b.chunk.css.map": "/Nobee_coding_challenge/static/css/main.0d782a8b.chunk.css.map"
+  }
+}
